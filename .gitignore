@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv/
+/test/Gen10-3/
+/test/Gen10-4/
+/train/Gen10-3/
+/train/Gen10-4/
+/results/
+/small_results/
+/train/
